@@ -23,8 +23,8 @@ The CEO , in particular has given a ballpark number for the lead conversion rate
 3. Feature Scaling and Dummy Variable Creation
 4. Machine Learning Algorithm and Model Building
 
-5. Model Evaluation - Sensitivity,Specificity,Preciosn, Recall
 ![image](https://user-images.githubusercontent.com/87184195/231740774-c5c4be4a-1f2e-4ca4-aa74-6bf49d3be9b8.png)
+5. Model Evaluation - Sensitivity,Specificity,Preciosn, Recall
 6. Conclusion and Recommendation
 
 # Libraries Used
